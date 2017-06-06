@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name='number_size'>16sp</dimen>
+
+    <dimen name='margin_size'>16dp</dimen>
+
+    <dimen name='button_size'>48dp</dimen>
+
+    <dimen name='choose_number_size'>8dp</dimen>
+</resources>
